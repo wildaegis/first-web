@@ -1,0 +1,23 @@
+a{
+    color:black;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+
+}
+.abc{
+    border-bottom: solid 2px gray;
+    margin: 0px;
+    padding: 10px;
+}
+.container{
+    display:grid;
+    grid-template-columns: 1fr 8fr;
+}
+#item2{
+    padding-left:20px;
+}
+#item1{
+    border-right: solid 2px gray;
+}
